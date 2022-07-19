@@ -6,7 +6,7 @@ function App() {
   return (
     <main>
       <div className='container'>
-      <h3>FAQ about Signing up</h3>
+      <h3>FAQ about REACT</h3>
         <section className='info'>
           {questions.map((question) => {
             return (

@@ -1,33 +1,33 @@
 const questions = [
   {
     id: 1,
-    title: 'Do I have to allow the use of cookies?',
+    title: 'What is react and why use it?',
     info:
-      'Unicorn vinyl poutine brooklyn, next level direct trade iceland. Shaman copper mug church-key coloring book, whatever poutine normcore fixie cred kickstarter post-ironic street art.',
+      "React is a JavaScript library developed by Facebook which, among other things, was used to build Instagram.com. Its aim is to allow developers to easily create fast user interfaces for websites and applications alike. The main concept of React. js is virtual DOM.",
   },
   {
     id: 2,
-    title: 'How do I change my My Page password?',
+    title: 'Is React better or Angular?',
     info:
-      'Coloring book forage photo booth gentrify lumbersexual. Migas chillwave poutine synth shoreditch, enamel pin thundercats fashion axe roof party polaroid chartreuse.',
+      "React is better than Angular due to it's virtual DOM implementation and rendering optimizations. Migrating between React's versions is quite easy, too; you don't need to install updates one by one, as in the case of Angular. Finally, with React, developers have myriads of existing solutions they can use.",
   },
   {
     id: 3,
-    title: 'What is BankID?',
+    title: "Is React a library or framework?",
     info:
-      'Enamel pin fam sustainable woke whatever venmo. Authentic asymmetrical put a bird on it, lumbersexual activated charcoal kinfolk banjo cred pickled sartorial.',
+      "Is React a framework? React is a JavaScript library for building user interfaces. It deals with the views and lets you choose the rest of your front-end architecture. However, a strong library ecosystem has developed around it, allowing you to build a complete framework around React by adding a few libraries to it.",
   },
   {
     id: 4,
-    title: 'Whose birth number can I use?',
+    title: "Is React easy to learn?",
     info:
-      'Edison bulb direct trade gentrify beard lo-fi seitan sustainable roof party franzen occupy squid. Knausgaard cronut succulents, scenester readymade shabby chic lyft. Copper mug meh vegan gentrify.',
+      "Both HTML and CSS are integral to any web development project. If you have these skills already, then learning React should be a relatively straightforward process. It has its own unique set of challenges, but it is an excellent tool to have in order to start or further your career as a web developer.",
   },
   {
     id: 5,
-    title: 'When do I recieve a password ordered by letter?',
+    title: "Why is React so good?",
     info:
-      'Locavore franzen fashion axe live-edge neutra irony synth af tilde shabby chic man braid chillwave waistcoat copper mug messenger bag. Banjo snackwave blog, microdosing thundercats migas vaporware viral lo-fi seitan ',
+      "React helps you work smarter, not harder, by allowing you to re-use components you've already written across the same application and on totally different builds with similar functionality. Reusable components also help to maintain a consistent code style and the overall maintainability of the application.",
   },
 ]
 export default questions
